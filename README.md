@@ -13,8 +13,8 @@ Easy-to-follow procedure for training and testing the model.
 Scalable and extendable for larger datasets and more complex applications.
 
 ## Technologies Used
-Python
-OpenCV
-TensorFlow/Keras (for building and training the CNN model)
-NumPy
-Scikit-learn
+* Python
+* OpenCV
+* TensorFlow/Keras (for building and training the CNN model)
+* NumPy
+* Scikit-learn
